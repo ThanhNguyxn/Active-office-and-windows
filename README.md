@@ -3,26 +3,6 @@
   
   # Guide to Activating Windows & Office Automatically
   
-  ## Step 1: Open CMD as Administrator
-  
-  - Type "CMD" in the Start Menu search box.
-  - Right-click on "Command Prompt" and select "Run as Administrator".
-  
-  ## Step 2: Run the Activation Command
-  
-  - When the CMD window appears, copy and paste the following command:
-    ```
-    powershell iex (irm https://get.activated.win)
-    ```
-  - Press Enter to execute.
-  - Please wait about 30 seconds; the server may be overloaded.
-  
-  ## Step 3: Select the Product to Activate
-  
-  - When the selection window appears, follow the on-screen instructions to choose Windows or Office to activate.
-  
-  ## Detailed Office Activation Steps 
-  
   ### Steps:
   
   1. **Open CMD as Administrator**
