@@ -1,69 +1,69 @@
----
-
-
-# Guide to Activating Windows & Office Automatically
-
-## Step 1: Open CMD as Administrator
-
-- Type "CMD" in the Start Menu search box.
-- Right-click on "Command Prompt" and select "Run as Administrator".
-
-## Step 2: Run the Activation Command
-
-- When the CMD window appears, copy and paste the following command:
-  ```
-  powershell iex (irm https://get.activated.win)
-  ```
-- Press Enter to execute.
-- Please wait about 30 seconds; the server may be overloaded.
-
-## Step 3: Select the Product to Activate
-
-- When the selection window appears, follow the on-screen instructions to choose Windows or Office to activate.
-
-## Detailed Office Activation Steps (Summarized from anhthoit.vn)
-
-### Steps:
-
-1. **Open CMD as Administrator**
-   - Type "CMD" in the Start Menu search box.
-   - Right-click "Command Prompt" and select "Run as Administrator".
-
-2. **Run the Activation Command**
-   - Paste the following command into CMD:
-     ```
-     powershell iex (irm https://get.activated.win)
-     ```
-   - Press Enter and wait about 30 seconds.
-
-3. **Choose Activation Function**
-   - When the selection window appears, you will see options:
-     1. Permanently activate Windows
-     2. Permanently activate Office
-     3. Activate Windows until 2038
-     4. Activate Windows & Office for 180 days
-     5. Check activation status of Office & Windows
-     6. Change OS version
-     7. Change Windows version
-     8. Troubleshooting
-     9. Additional
-     H. Support
-     0. Exit
-
-   - To activate Office, choose option **2** (Permanently activate Office).
-   - Then choose option **1** to proceed.
-
-4. **Check Result**
-   - If you see: `Office is permanently activated`, you have successfully activated Office.
-
-### Notes:
-- This script is for personal use only; do not use for unlicensed software.
-- Disable antivirus software if the script is blocked.
-- If you encounter errors, check your internet connection and try again.
-
-**Note:** This tool/script is not made by me, I only share the guide.
-
----
+  ---
+  
+  
+  # Guide to Activating Windows & Office Automatically
+  
+  ## Step 1: Open CMD as Administrator
+  
+  - Type "CMD" in the Start Menu search box.
+  - Right-click on "Command Prompt" and select "Run as Administrator".
+  
+  ## Step 2: Run the Activation Command
+  
+  - When the CMD window appears, copy and paste the following command:
+    ```
+    powershell iex (irm https://get.activated.win)
+    ```
+  - Press Enter to execute.
+  - Please wait about 30 seconds; the server may be overloaded.
+  
+  ## Step 3: Select the Product to Activate
+  
+  - When the selection window appears, follow the on-screen instructions to choose Windows or Office to activate.
+  
+  ## Detailed Office Activation Steps (Summarized from anhthoit.vn)
+  
+  ### Steps:
+  
+  1. **Open CMD as Administrator**
+     - Type "CMD" in the Start Menu search box.
+     - Right-click "Command Prompt" and select "Run as Administrator".
+  
+  2. **Run the Activation Command**
+     - Paste the following command into CMD:
+       ```
+       powershell iex (irm https://get.activated.win)
+       ```
+     - Press Enter and wait about 30 seconds.
+  
+  3. **Choose Activation Function**
+     - When the selection window appears, you will see options:
+       1. Permanently activate Windows
+       2. Permanently activate Office
+       3. Activate Windows until 2038
+       4. Activate Windows & Office for 180 days
+       5. Check activation status of Office & Windows
+       6. Change OS version
+       7. Change Windows version
+       8. Troubleshooting
+       9. Additional
+       H. Support
+       0. Exit
+  
+     - To activate Office, choose option **2** (Permanently activate Office).
+     - Then choose option **1** to proceed.
+  
+  4. **Check Result**
+     - If you see: `Office is permanently activated`, you have successfully activated Office.
+  
+  ### Notes:
+  - This script is for personal use only; do not use for unlicensed software.
+  - Disable antivirus software if the script is blocked.
+  - If you encounter errors, check your internet connection and try again.
+  
+  **Note:** This tool/script is not made by me, I only share the guide.
+  
+  ---
 
 # Hướng dẫn Active Windows & Office tự động (Tiếng Việt)
 
