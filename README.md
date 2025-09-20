@@ -21,7 +21,7 @@
   
   - When the selection window appears, follow the on-screen instructions to choose Windows or Office to activate.
   
-  ## Detailed Office Activation Steps (Summarized from anhthoit.vn)
+  ## Detailed Office Activation Steps 
   
   ### Steps:
   
@@ -85,7 +85,7 @@
 
 - Khi cửa sổ lựa chọn xuất hiện, làm theo hướng dẫn trên màn hình để chọn Windows hoặc Office cần active.
 
-## Hướng dẫn Active Office mọi phiên bản bằng CMD (Tổng hợp từ anhthoit.vn)
+## Hướng dẫn Active Office mọi phiên bản bằng CMD 
 
 ### Các bước thực hiện:
 
